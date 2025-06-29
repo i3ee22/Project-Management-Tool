@@ -1,0 +1,24 @@
+body {
+  background: #f0f2f5;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+.task-status {
+  font-size: 0.85rem;
+}
+
+.status-pending {
+  color: #ff9800;
+}
+
+.status-inprogress {
+  color: #2196f3;
+}
+
+.status-completed {
+  color: #4caf50;
+}
